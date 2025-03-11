@@ -1,0 +1,87 @@
+{
+    "root": {
+        "data": {
+            "id": "d7uqcixu4ug0",
+            "created": 1739796388185,
+            "text": "使用场景"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d7uqd2t3xmo0",
+                    "created": 1739796431435,
+                    "text": "缓存"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d7uqdi0soew0",
+                            "created": 1739796464551,
+                            "text": "穿透、击穿、雪崩"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d7uqdl9m3fk0",
+                            "created": 1739796471615,
+                            "text": "双写一致、持久化"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d7uqdmub8nc0",
+                            "created": 1739796475043,
+                            "text": "数据过期、淘汰策略"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d7uqd4itww00",
+                    "created": 1739796435167,
+                    "text": "分布式锁"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d7uqd6mutaw0",
+                    "created": 1739796439764,
+                    "text": "计数器"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d7uqd85gq540",
+                    "created": 1739796443066,
+                    "text": "保存token"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d7uqdawsr000",
+                    "created": 1739796449072,
+                    "text": "消息队列"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d7uqdcirn4w0",
+                    "created": 1739796452577,
+                    "text": "延迟队列"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
