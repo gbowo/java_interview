@@ -210,3 +210,6 @@ public MessageConverter messageConverter(){
     return jackson2JsonMessageConverter;
 }
 ```
+
+
+#### 5. 发送者的可靠性
